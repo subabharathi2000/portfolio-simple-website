@@ -12,7 +12,7 @@ A simple portfolio website with two pages: a Portfolio page and a Contact page, 
 - HTML
 - CSS
 
-# Future Improvements
-Add JavaScript for form validation and dynamic content.
-Enhance CSS styling for better aesthetics.
-Implement a backend to handle form submissions.
+## Future Improvements
+- Add JavaScript for form validation and dynamic content.
+- Enhance CSS styling for better aesthetics.
+- Implement a backend to handle form submissions.
