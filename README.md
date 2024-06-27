@@ -1,4 +1,4 @@
-# Description
+# My Portfolio Website
 A simple portfolio website with two pages: a Portfolio page and a Contact page, created using HTML and basic CSS.
 
 ## Features
